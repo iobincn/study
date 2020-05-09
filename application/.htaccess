@@ -1,0 +1,7 @@
+<IfModule authz_core_module>
+    Require all granted
+</FilesMatch>
+</IfModule>
+<IfModule !authz_core_module>
+    Deny from all
+</IfModule>

@@ -1,0 +1,13 @@
+.you {
+    width: 60px;
+    font-weight: bold;
+    color: #F00;
+    background-image: url(img/zan.gif);
+}
+a{ text-decoration:none}
+
+button{
+    font-size: 25px;
+    width: 150px;
+    height: 70px;
+}
