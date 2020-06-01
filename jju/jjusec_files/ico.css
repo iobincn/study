@@ -1,0 +1,383 @@
+.weibo {
+	background: url('ico.png') no-repeat left;height: 16px !important; text-align: left;line-height: 16px !important; padding-left: 20px !important; 
+	overflow: hidden; 
+	
+	display: block !important; 
+	cursor: pointer;
+}
+
+.weibo_email {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -32px;
+}
+.weibo_fav {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -16px;
+}
+.weibo_buzz {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -48px;
+}
+.weibo_qzone {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -64px;
+}
+.weibo_baidu {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -80px;
+}
+.weibo_tsina {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -96px;
+}
+.weibo_tsohu {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -112px;
+}
+.weibo_t163 {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -128px;
+}
+.weibo_tqq {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -144px;
+}
+.weibo_renren {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -160px;
+}
+.weibo_kaixin001 {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -176px;
+}
+.weibo_sohu {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -192px;
+}
+.weibo_taobao {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -208px;
+}
+.weibo_hi {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -224px;
+}
+.weibo_xiaoyou {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -240px;
+}
+.weibo_youshi {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -256px;
+}
+.weibo_gmail {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -272px;
+}
+.weibo_hotmail {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -288px;
+}
+.weibo_ymail {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -304px;
+}
+.weibo_feixin {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -320px;
+}
+.weibo_51 {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -336px;
+}
+.weibo_google {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -352px;
+}
+.weibo_youdao {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -368px;
+}
+.weibo_qq {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -384px;
+}
+.weibo_sina {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -400px;
+}
+.weibo_tuita {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -416px;
+}
+.weibo_huaban {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -432px;
+}
+.weibo_115 {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -448px;
+}
+.weibo_hexun {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -464px;
+}
+.weibo_myspace {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -480px;
+}
+.weibo_139 {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -496px;
+}
+.weibo_tieba {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -512px;
+}
+.weibo_sdonote {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -528px;
+}
+.weibo_digu {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -544px;
+}
+.weibo_douban {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -560px;
+}
+.weibo_ifengkb {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -576px;
+}
+.weibo_xianguo {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -592px;
+}
+.weibo_zuosa {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -608px;
+}
+.weibo_renjian {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -624px;
+}
+.weibo_gmw {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -640px;
+}
+.weibo_delicious {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -656px;
+}
+.weibo_digg {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -672px;
+}
+.weibo_fb {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -688px;
+}
+.weibo_twitter {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -704px;
+}
+.weibo_ujian {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -720px;
+}
+.weibo_poco {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -736px;
+}
+.weibo_wealink {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -752px;
+}
+.weibo_cnfol {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -768px;
+}
+.weibo_leshou {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -784px;
+}
+.weibo_diglog {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -800px;
+}
+.weibo_tongxue {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -816px;
+}
+.weibo_waakee {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -832px;
+}
+.weibo_bietiao {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -848px;
+}
+.weibo_cyzone {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -864px;
+}
+.weibo_qu1 {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -880px;
+}
+.weibo_chinanews {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -896px;
+}
+.weibo_99earth {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -912px;
+}
+.weibo_chouti {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -928px;
+}
+.weibo_dig24 {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -944px;
+}
+.weibo_douban9dian {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -960px;
+}
+.weibo_i139 {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -976px;
+}
+.weibo_caimi {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -992px;
+}
+.weibo_baohe {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1008px;
+}
+.weibo_yijee {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1024px;
+}
+.weibo_pdfonline {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1040px;
+}
+.weibo_printfriendly {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1056px;
+}
+.weibo_translate {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1072px;
+}
+.weibo_duitang {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1088px;
+}
+.weibo_diigo {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1104px;
+}
+.weibo_evernote {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1120px;
+}
+.weibo_friendfeed {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1136px;
+}
+.weibo_linkedin {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1152px;
+}
+.weibo_mixx {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1168px;
+}
+.weibo_netlog {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1184px;
+}
+.weibo_netvibes {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1200px;
+}
+.weibo_phonefavs {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1216px;
+}
+.weibo_pingfm {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1232px;
+}
+.weibo_plaxo {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1248px;
+}
+.weibo_tpeople {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1264px;
+}
+.weibo_reddit {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1280px;
+}
+.weibo_wong {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1296px;
+}
+.weibo_stumbleupon {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1312px;
+}
+.weibo_plurk {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1328px;
+}
+.weibo_funp {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1344px;
+}
+.weibo_miliao {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1360px;
+}
+.weibo_myshare {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1376px;
+}
+.weibo_fwisp {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1392px;
+}
+.weibo_more {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1408px;
+}
+.weibo_jiathis {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1408px;
+}
+.weibo_msn {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1424px;
+}
+.weibo_fanfou {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1440px;
+}
+.weibo_189mail {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1456px;
+}
+.weibo_dream163 {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1472px;
+}
+.weibo_thexun {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1488px;
+}
+.weibo_tianya {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1505px;
+}
+.weibo_w3c {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1521px;
+}
+.weibo_tifeng {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1537px;
+}
+.weibo_bitly {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1553px;
+}
+.weibo_woshao {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1569px;
+}
+.weibo_ganniu {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1585px;
+}
+.weibo_189cn {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1601px;
+}
+.weibo_masar {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1617px;
+}
+.weibo_renmaiku {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1633px;
+}
+.weibo_mop {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1649px;
+}
+.weibo_ifensi {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1665px;
+}
+.weibo_leihou {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1681px;
+}
+.weibo_mailru {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1697px;
+}
+.weibo_readitlater {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1713px;
+}
+.weibo_instapaper {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1729px;
+}
+.weibo_print {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1745px;
+}
+.weibo_139mail {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1760px;
+}
+.weibo_meilishuo {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1777px;
+}
+.weibo_mogujie {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1793px;
+}
+.weibo_42qu {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1809px;
+}
+.weibo_tianji {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1825px;
+}
+.weibo_tumblr {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1841px;
+}
+.weibo_ishare {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1857px;
+}
+.weibo_qingsina {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1873px;
+}
+.weibo_pinterest {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1889px;
+}
+.weibo_toeeee {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1905px;
+}
+.weibo_tyaolan {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1921px;
+}
+.weibo_189share {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1937px;
+}
+.weibo_txinhua {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1953px;
+}
+.weibo_googleplus {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1969px;
+}
+.weibo_faxianla {
+	background: url('ico.png') no-repeat left;height: 16px !important;text-align: left;line-height: 16px !important;padding-left: 20px !important;cursor:hand;  background-position: 0px -1985px;
+}
